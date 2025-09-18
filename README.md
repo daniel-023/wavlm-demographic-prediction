@@ -1,5 +1,5 @@
-# Speaker-Profiling
-This is a simple experiment to investigate if WavLM embeddings can be used to accurately classify Singaporean speakers by demographic attributes such as gender, age, ethnicity, and education level. 
+# Speaker-Demographic-Prediction
+This is a pilot experiment to investigate if WavLM embeddings can be used to accurately classify Singaporean speakers by demographic attributes such as gender, age, ethnicity, and education level. 
 
 ## Repository Structure
 
