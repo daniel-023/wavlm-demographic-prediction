@@ -1,4 +1,4 @@
-# Speaker-Demographic-Prediction
+# WavLM Demographic Prediction
 This is a pilot experiment to investigate if WavLM embeddings can be used to accurately classify Singaporean speakers by demographic attributes such as gender, age, ethnicity, and education level. 
 
 ## Repository Structure
